@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: whitesmoke;
+    text-align: center;
+    color: #130e0f;
+}
+button{
+    margin: 50px;
+    text-transform: uppercase;
+    background: red;
+    padding: 15px 40px;
+    border: black 1px solid;
+    border-radius: 5px;
+}
+h1{
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+#img{
+    width: 100%;
+}
+.team-img{
+    width: 100px;
+    border-radius: 100%;
+    margin: 10px
+}
